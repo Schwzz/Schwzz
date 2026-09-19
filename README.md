@@ -8,9 +8,11 @@ i started with HTML and i'm still learning pretty much everything as i go. i'm n
 
 my long-term goal is to make my own **indie games**, but for now i'm experimenting with whatever catches my interest.
 
+**website:** [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
+
 ## projects
 
-stuff i've actually put together:
+stuff i'm currently working on:
 
 * [Calculator Vault](https://github.com/Schwzz/Calculator-Vault)
   an Android calculator vault app.
