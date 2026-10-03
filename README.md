@@ -10,36 +10,6 @@ my long-term goal is to make my own **indie games**, but for now i'm experimenti
 
 **website:** [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
 
-## projects
-
-stuff i'm currently working on:
-
-* [Calculator Vault](https://github.com/Schwzz/Calculator-Vault)
-  an Android calculator vault app.
-
-* [Draftly](https://github.com/Schwzz/Draftly)
-  a Mobile Legends draft assistant.
-
-## minecraft plugins
-
-some Minecraft plugins i've made while messing around with Spigot/Paper:
-
-* [AdvancedManhunt](https://github.com/Schwzz/AdvancedManhunt)
-* [Trollerzz](https://github.com/Schwzz/Trollerzz)
-* [DayNightFaction](https://github.com/Schwzz/DayNightFaction)
-* [DualStamina](https://github.com/Schwzz/DualStamina)
-* [Untitled Chase Plugin](https://github.com/Schwzz/Untitled-Chase-Plugin)
-
-## the dump
-
-random projects, experiments, old ideas, and things that may or may not ever be touched again:
-
-* [Dialogue Animator](https://github.com/Schwzz/Dialogue-Animator)
-* [ShadowCalc](https://github.com/Schwzz/ShadowCalc)
-* [BrainLIST](https://github.com/Schwzz/Brainlist)
-* [Coordinate Finder Applet](https://github.com/Schwzz/Coordinate-Finder-Applet-)
-* [AUTOEXEC CFG SWARTS](https://github.com/Schwzz/AUTOEXEC-CFG-SWARTS)
-
 ## currently
 
 learning. building. experimenting.
