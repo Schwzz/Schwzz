@@ -8,7 +8,7 @@ i started with HTML and i'm still learning pretty much everything as i go. i'm n
 
 my long-term goal is to make my own **indie games**, but for now i'm experimenting with whatever catches my interest.
 
-**website:** [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
+**website:** https://schwzz.github.io/swartzz-web/
 
 ## currently
 
