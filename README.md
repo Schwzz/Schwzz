@@ -10,10 +10,18 @@ long-term goal: make my own **indie games**. for now, experimenting with whateve
 
 **website:** [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
 
-## stats
+## about
 
-![Schwzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schwzz&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schwzz&layout=compact&theme=github_dark&hide_border=true)
+![Followers](https://img.shields.io/github/followers/Schwzz?label=Followers&style=for-the-badge&logo=github)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Schwzz&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github)
+
+## featured projects
+
+- **[Artflux-new](https://github.com/Schwzz/Artflux-new)** — continuation of artflux
+- **[VaultCalc](https://github.com/Schwzz/VaultCalc)** — encrypted calculator vault for Android
+- **[UntitledDownloader](https://github.com/Schwzz/UntitledDownloader)** — ad-free Android video downloader (private)
+- **[Send-that](https://github.com/Schwzz/Send-that)** — shares media files instead of links
+- **[Peek](https://github.com/Schwzz/Peek)** — AI overlay
 
 ## activity
 
