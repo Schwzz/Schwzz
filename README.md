@@ -1,29 +1,39 @@
-# yo, i'm schwzz.
+﻿# yo, i'm schwzz.
 
 or **swartzz**. either works.
 
 i code, vibe code, and turn random ideas into things that actually exist.
 
-i started with HTML and i'm still learning pretty much everything as i go. i'm not trying to pretend i'm some coding expert. i just like building things, breaking them, fixing them, and seeing how far i can take an idea.
+started with HTML, still learning everything as i go. not pretending to be an expert — i just like building things, breaking them, fixing them, and seeing how far an idea can go.
 
-my long-term goal is to make my own **indie games**, but for now i'm experimenting with whatever catches my interest.
+long-term goal: make my own **indie games**. for now, experimenting with whatever catches my interest.
 
-**website:** [here](https://schwzz.github.io/swartzz-web/)
+**website:** [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
+
+## stats
+
+![Schwzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schwzz&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Schwzz&layout=compact&theme=github_dark&hide_border=true)
+
+## activity
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Schwzz&theme=github-dark&hide_border=true)
 
 ## currently
 
 learning. building. experimenting.
 
-sometimes i know what i'm doing.
-
-sometimes i absolutely do not.
+sometimes i know what i'm doing. sometimes i absolutely do not.
 
 either way, something usually gets made.
 
----
+## outside of code
 
-outside of coding, i'm usually watching anime, reading manga/manhwa, messing with art or editing, listening to music, or playing games.
+anime, manga/manhwa, art & editing, music, games.
 
-pretty lazy honestly.
+pretty lazy honestly. still get things done though.
 
-still get things done though.
+## find me
+
+- site: [swartzzisme.netlify.app](https://swartzzisme.netlify.app)
+- github: [@Schwzz](https://github.com/Schwzz)
